@@ -4,10 +4,10 @@
 const elisaflemer = {
     name: "Elisa Flemer",
     location: "Brazil 🇧🇷",
-    dreamLocation: "NYC",
+    dreamLocation: "NYC 🗽",
     role: "Software development intern @ BCG 👩‍💻",
     education: "Computer Engineering Major @ Inteli 🎓",
-   loves: ["Blockchain 💎", "Fullstack 🌐", "Cloud ☁️"],
+    loves: ["Blockchain 💎", "Fullstack 🌐", "Cloud ☁️"],
     hackathonWins: 8,
     funFact: "I'm obsessed with Broadway musicals",
     contact: {
