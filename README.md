@@ -19,9 +19,9 @@ const elisaflemer = {
 ```
 ## Stats
 <div style={{ float: "left", marginRight: "20px" }}>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisaflemer&theme=omni&show_icons=true&hide_rank=true)
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elisaflemer&theme=omni&show_icons=true&hide_rank=true" />
 </div>
 
 <div style={{ float: "left" }}>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisaflemer&layout=compact&theme=omni)
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaflemer&layout=compact&theme=omni" />
 </div>
