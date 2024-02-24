@@ -19,11 +19,6 @@ const elisaflemer = {
 ```
 ## Stats
 <div style={{ display: "flex", alignItems: "center" }}>
-    <div style={{ marginRight: "20px" }}>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elisaflemer&theme=omni&show_icons=true&hide_rank=true" />
-    </div>
-
-    <div>
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaflemer&layout=compact&theme=omni" />
-    </div>
 </div>
