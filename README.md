@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on end-user projects that include the automation of daily tasks, the facilitation of learning and memory, anything related to music and cats, etc.
 - 📫 How to reach me: hit me up on Instagram (@elisaflemer)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisaflemer)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisaflemer&layout=compact)
