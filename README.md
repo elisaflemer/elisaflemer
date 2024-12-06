@@ -89,6 +89,11 @@ const elisaflemer = {
 
 ## 📊 Stats
 <!--START_SECTION:waka-->
+
+```txt
+Solidity   5 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
