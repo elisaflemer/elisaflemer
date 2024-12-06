@@ -6,14 +6,14 @@ const elisaflemer = {
     name: "Elisa Flemer",
     location: "Brazil 🇧🇷",
     dreamLocation: "NYC 🗽",
-    role: "Software development intern @ BCG 👩‍💻",
+    role: "Blockchain development @ Vert 👩‍💻",
     education: "Computer Engineering Major @ Inteli 🎓",
     loves: ["Blockchain 💎", "Fullstack 🌐", "Cloud ☁️"],
     hackathonWins: 8,
     funFact: "I'm obsessed with Broadway musicals",
     contact: {
         linkedin: "linkedin.com/in/elisaflemer",
-        instagram: "@elisaflemer", //50k followers!!
+        instagram: "@elisaflemer", //63k followers!!
     },
 };
 ```
