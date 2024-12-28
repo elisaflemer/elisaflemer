@@ -91,8 +91,8 @@ const elisaflemer = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 24 mins   ████████████████████████▓   98.02 %
-Solidity     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   1 hr 24 mins    █████████████████████████   99.83 %
+Solidity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
