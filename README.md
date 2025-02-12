@@ -91,7 +91,11 @@ const elisaflemer = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 24 mins    █████████████████████████   100.00 %
+TypeScript   2 hrs 12 mins   █████████████▓░░░░░░░░░░░   54.07 %
+YAML         1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 %
+Python       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
