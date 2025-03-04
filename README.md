@@ -91,11 +91,11 @@ const elisaflemer = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 55 mins    █████████████████████░░░░   83.94 %
-Markdown     21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+TypeScript   1 hr 55 mins    ██████████████████▒░░░░░░   73.89 %
+Markdown     21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Python       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
