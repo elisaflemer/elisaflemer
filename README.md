@@ -91,9 +91,7 @@ const elisaflemer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python     24 mins         █████████████▒░░░░░░░░░░░   52.97 %
-Markdown   21 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
