@@ -6,14 +6,14 @@ const elisaflemer = {
     name: "Elisa Flemer",
     location: "Brazil 🇧🇷",
     dreamLocation: "NYC 🗽",
-    role: "Blockchain development @ Vert 👩‍💻",
-    education: "Computer Engineering Major @ Inteli 🎓",
+    role: "Software engineer @ BCG X 👩‍💻",
+    education: "Computer Engineering Senior @ Inteli 🎓",
     loves: ["Blockchain 💎", "Fullstack 🌐", "Cloud ☁️"],
     hackathonWins: 8,
     funFact: "I'm obsessed with Broadway musicals",
     contact: {
         linkedin: "linkedin.com/in/elisaflemer",
-        instagram: "@elisaflemer", //63k followers!!
+        instagram: "@elisaflemer", //65k followers!!
     },
 };
 ```
@@ -88,13 +88,6 @@ const elisaflemer = {
 
 
 ## 📊 Stats
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elisaflemer&theme=omni&show_icons=true&hide_rank=true" />
